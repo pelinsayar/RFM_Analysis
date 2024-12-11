@@ -23,7 +23,7 @@ To talk about the project, it involves cleaning and preparing data, calculating 
 Key steps in the project:
 
 * ### Data Understanding & Preparation
-Cleaned null values, removed cancellations, and ensured valid transaction data.
+Cleaned missing values, filtretation, and ensured valid transaction data.
 Created a new feature, TotalPrice, by multiplying quantity and price.
 
 * ### RFM Metric Calculation
@@ -31,7 +31,7 @@ Calculated recency, frequency, and monetary metrics for each customer.
 
 * ### Scoring and Segmentation
 Scored customers on a scale of 1–5 for each metric.
-Combined scores to create an RFM_SCORE and mapped these scores to specific customer segments (e.g., "Champions", "At Risk").
+Combined scores to create an RFM_SCORE and mapped these scores to specific customer segments.
 
 * ### Result Exportation
 Exported segmented customer IDs and detailed RFM metrics to CSV files for further analysis.
