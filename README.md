@@ -1,4 +1,4 @@
-# RFM_Analysis
+# RFM Analysis
 
 This project applies RFM Analysis (Recency, Frequency, Monetary) to perform customer segmentation for a retail dataset. But before talking about the project, I would like to explain very briefly what RFM Analytics is.
 
