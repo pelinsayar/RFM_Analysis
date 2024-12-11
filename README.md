@@ -5,13 +5,13 @@ This project applies RFM Analysis (Recency, Frequency, Monetary) to perform cust
 RFM Analytics (Recency, Frequency, Monetary) aims to segment customers based on their interactions with the business using three key metrics:
 
 
-**Recency**: When did the customer make their last purchase?
+ - **Recency**: When did the customer make their last purchase?
 
 
-**Frequency**: How often does the customer make a purchase?
+ - **Frequency**: How often does the customer make a purchase?
 
 
-**Monetary**: How much has the customer spent in total?
+ - **Monetary**: How much has the customer spent in total?
 
 These metrics are used to understand customer behavior and segment them accordingly. By grouping customers based on their purchasing habits, businesses can develop targeted strategies for each group, enabling data-driven actions across various CRM initiatives. For example, a customer who shops frequently but has been inactive for a while may represent an opportunity for reactivation. Similarly, a high-spending customer could be categorized in a loyal segment, allowing businesses to better tailor their engagement efforts.
 
@@ -19,16 +19,6 @@ These metrics are used to understand customer behavior and segment them accordin
 
 To talk about the project, it involves cleaning and preparing data, calculating RFM metrics and assigning customers to meaningful segments based on their shopping behavior. The dataset used is the **Online Retail** dataset, which can be downloaded from the UCI Machine Learning Repository. This dataset contains transaction records from a UK-based retail company between 01/12/2009 and 09/12/2011, offering valuable insights about customers. 
 (To access the dataset: [https://archive.ics.uci.edu/dataset/352/online+retail](https://archive.ics.uci.edu/dataset/352/online+retail))
-
-Variables in the Dataset:
-- InvoiceNo: Invoice number.
-- StockCode: Product code.
-- Description: Product description.
-- Quantity: Quantity of products sold.
-- InvoiceDate: Transaction date.
-- UnitPrice: Product unit price.
-- CustomerID: Unique customer identifier.
-- Country: Customer’s country.
 
 Key steps in the project:
 
@@ -51,6 +41,9 @@ This analysis empowers businesses to:
 * Understand customer behavior.
 * Develop targeted marketing strategies.
 * Improve resource allocation and campaign effectiveness.
+
+If you would like to take a look at the article I wrote about RFM Analysis and explained my project step by step:
+(https://lnkd.in/dmmFDB4D)
 
 Feel free to explore the code and adapt it for your dataset!
 
