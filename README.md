@@ -42,10 +42,7 @@ This analysis empowers businesses to:
 * Develop targeted marketing strategies.
 * Improve resource allocation and campaign effectiveness.
 
-If you would like to take a look at the article I wrote about RFM Analysis and explained my project step by step:
-(https://lnkd.in/dmmFDB4D)
-
-Feel free to explore the code and adapt it for your dataset!
+If you're interested in exploring the article I wrote about RFM Analysis, where I explain my project step by step, feel free to take a look: (https://lnkd.in/dmmFDB4D)
 
 <img src="https://github.com/pelinsayar/images/blob/main/rfm.webp" width="700" height="400"/>   
 
